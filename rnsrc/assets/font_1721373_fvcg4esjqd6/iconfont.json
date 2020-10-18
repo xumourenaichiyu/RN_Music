@@ -1,0 +1,212 @@
+{
+  "id": "1721373",
+  "name": "音乐小项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "447363",
+      "name": "首页",
+      "font_class": "iconfonthome0",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "553353",
+      "name": "加载中",
+      "font_class": "jiazaizhong",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15872071",
+      "name": "没有数据",
+      "font_class": "meiyoushuju",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "594008",
+      "name": "PLUS",
+      "font_class": "plus",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3106419",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "478792",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "8280171",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "12457436",
+      "name": "015",
+      "font_class": "icon-test",
+      "unicode": "f097",
+      "unicode_decimal": 61591
+    },
+    {
+      "icon_id": "3779557",
+      "name": "留声机",
+      "font_class": "liushengji",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "3779584",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3779620",
+      "name": "音乐书",
+      "font_class": "yinleshu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3779654",
+      "name": "MP4",
+      "font_class": "MP",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "3779679",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "3779680",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "3781122",
+      "name": "磁盘",
+      "font_class": "cipan",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3781127",
+      "name": "电视机",
+      "font_class": "dianshiji",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3781253",
+      "name": "MP3",
+      "font_class": "MP1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "3781367",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "3781368",
+      "name": "播放器",
+      "font_class": "bofangqi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "3781371",
+      "name": "音箱",
+      "font_class": "yinxiang",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "3781405",
+      "name": "音响设备",
+      "font_class": "yinxiangshebei",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "3781684",
+      "name": "录音",
+      "font_class": "luyin",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "3781712",
+      "name": "吉他",
+      "font_class": "jita",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "3781714",
+      "name": "鼓",
+      "font_class": "gu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "3781715",
+      "name": "话筒",
+      "font_class": "huatong",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "3781723",
+      "name": "挂耳耳机",
+      "font_class": "guaererji",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "3781728",
+      "name": "话筒2",
+      "font_class": "huatong1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "3781734",
+      "name": "MP3设备",
+      "font_class": "MPshebei",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "3782355",
+      "name": "磁盘",
+      "font_class": "cipan1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
