@@ -1,10 +1,11 @@
 export default {
+  "icon-back": 59124,
+  "icon-wodedangxuan": 58888,
   "icon-iconfonthome0": 58896,
   "icon-jiazaizhong": 58887,
   "icon-meiyoushuju": 58891,
   "icon-plus": 58901,
   "icon-loading": 58894,
-  "icon-wode": 58912,
   "icon-shijian": 59032,
   "icon-icon-test": 61591,
   "icon-liushengji": 58915,

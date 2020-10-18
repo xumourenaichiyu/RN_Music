@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import {Text} from 'react-native'
-class Home extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {  }
-  }
-  render() { 
-    return ( <Text>home</Text> );
-  }
-}
- 
+import React, {Component} from 'react';
+import {useHeaderHeight} from 'react-navigation-stack';
+import {Text, ImageBackground} from 'react-native';
+const Home = () => {
+  return (
+    <ImageBackground
+      style={{flex: 1, paddingTop: useHeaderHeight()}}
+      source={require('../assets/img/mainBg.png')}>
+      <Text>I have a full screen background image</Text>
+    </ImageBackground>
+  );
+};
 export default Home;
